@@ -1,6 +1,6 @@
 <!-- 
   GitHub Profile README
-  Replace ALL instances of "amit-dev" with your actual GitHub username
+  Replace ALL instances of "amit0236" with your actual GitHub username
   for the stats/streak widgets to work.
 -->
 
