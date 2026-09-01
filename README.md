@@ -1,18 +1,12 @@
-<!-- 
-  GitHub Profile README
-  Replace ALL instances of "amit0236" with your actual GitHub username
-  for the stats/streak widgets to work.
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amit;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+%F0%9F%91%8B;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
 
 </div>
 
-<br/>
+<br>
 
-```
+```text
 > who am i
 Amit — CSE/IT undergrad, building software that ships, not just compiles.
 
@@ -20,90 +14,76 @@ Amit — CSE/IT undergrad, building software that ships, not just compiles.
 Building: AI Interviewer SaaS (Next.js 15 + TypeScript + Clerk)
 Learning: Automata theory by day, App Router patterns by night
 Debugging: my sleep schedule
-```
+<br>
+🚀 Things I've Built
+<table> <tr> <td width="50%" valign="top">
+🩺 PulseID
 
-<br/>
+QR-code-based emergency medical ID system built at a hackathon.
 
-### 🚀 Things I've Built
+Scan the code, get life-saving information in seconds — because emergencies don't wait for paperwork.
 
-<table>
-<tr>
-<td width="50%">
+Team Project Hackathon
 
-**🩺 PulseID**
-QR-code-based emergency medical ID system built at a hackathon. Scan the code, get life-saving info in seconds — because emergencies don't wait for paperwork.
-`Team project` `Hackathon`
+</td> <td width="50%" valign="top">
+🏙️ CivicConnect
 
-</td>
-<td width="50%">
+A community issue-management platform where people can report and track civic problems instead of just complaining about them.
 
-**🏙️ CivicConnect**
-A community issue-management platform so people can report and track civic problems instead of just complaining about them. Live on GitHub Pages.
-`Web App` `Community Tech`
+Web App Community Tech
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</td> </tr> <tr> <td width="50%" valign="top">
+💰 LEDGER — Smart Expense Tracker
 
-**💰 LEDGER — Smart Expense Tracker**
-Vanilla JS expense tracker with OCR receipt scanning, canvas-drawn charts, anomaly detection, and spending forecasts. No frameworks, no excuses.
-`Tesseract.js` `Canvas API`
+Vanilla JavaScript expense tracker with:
 
-</td>
-<td width="50%">
+OCR receipt scanning
+Canvas-based charts
+Anomaly detection
+Spending forecasts
 
-**🎙️ AI Interviewer SaaS** *(in progress)*
-A platform that runs mock interviews and gives real feedback. Built milestone by milestone, with every stage verified before the next begins.
-`Next.js 15` `Clerk` `Framer Motion`
+Tesseract.js Canvas API
 
-</td>
-</tr>
-</table>
+</td> <td width="50%" valign="top">
+🎙️ AI Interviewer SaaS
 
-<br/>
+A platform that runs mock interviews and gives real feedback.
 
-### 🛠️ Tech I Reach For
+Currently being built milestone by milestone, with every stage verified before the next.
 
+Next.js 15 TypeScript Clerk Framer Motion
+
+</td> </tr> </table> <br>
+🛠️ Tech I Reach For
+<div align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </div> <br>
+📊 GitHub Stats
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit0236&theme=synthwave&hide_border=true" alt="streak stats"/>
-</div>
-
-<br/>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
+</div> <br>
+🔥 GitHub Streak
 <div align="center">
 
-**💬 Currently:** shipping features one milestone at a time, and actually checking them off.
+<img src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="profile views"/>
+</div> <br>
+📈 Contribution Graph
+<div align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</div> <br> <div align="center">
+💬 Currently
+
+Shipping features one milestone at a time, and actually checking them off.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views" />
+
+<br><br>
+
+<a href="https://github.com/amit0236"> <img src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github" alt="GitHub" > </a> </div> ```
