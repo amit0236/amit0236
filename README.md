@@ -13,7 +13,7 @@
 <br/>
 
 ```
-> whoami
+> who am i
 Amit — CSE/IT undergrad, building software that ships, not just compiles.
 
 > status
