@@ -82,12 +82,12 @@ A platform that runs mock interviews and gives real feedback. Built milestone by
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit-dev&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dev&layout=compact&theme=synthwave&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-dev&theme=synthwave&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit0236&theme=synthwave&hide_border=true" alt="streak stats"/>
 </div>
 
 <br/>
@@ -95,7 +95,7 @@ A platform that runs mock interviews and gives real feedback. Built milestone by
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-dev&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -104,6 +104,6 @@ A platform that runs mock interviews and gives real feedback. Built milestone by
 
 **💬 Currently:** shipping features one milestone at a time, and actually checking them off.
 
-<img src="https://komarev.com/ghpvc/?username=amit-dev&style=for-the-badge&color=00FF9C" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="profile views"/>
 
 </div>
