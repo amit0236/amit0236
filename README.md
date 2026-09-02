@@ -1,86 +1,61 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+whoami;%3E+Amit+Maurya;%3E+Full-Stack+Developer;%3E+Building+software+that+ships;%3E+Currently+building+AI+Interviewer+SaaS" alt="Typing intro"/>
+# 👋 Hello! I'm Amit Kumar Maurya
+
+### 💻 Full-Stack Developer • AI Enthusiast • CSE Undergraduate
+
+I build modern web applications, experiment with AI,  
+and turn ideas into products that actually work.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amit0236&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   $ whoami                                                   │
-│                                                              │
-│   Amit Maurya                                                │
-│   CSE / IT Undergraduate                                     │
-│   Full-Stack Developer                                       │
-│                                                              │
-│   I build software that solves real problems —              │
-│   from hackathon prototypes to products that ship.          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+## 🚀 About Me
 
-## `$ cat about.md`
+- 🎓 CSE Undergraduate
+- 💻 Full-Stack Developer
+- 🤖 Interested in **AI & Product Engineering**
+- 🚀 Currently building an **AI Interviewer SaaS**
+- 🧠 Currently learning **Automata Theory & Next.js App Router**
+- ⚡ I learn by building, breaking, debugging and rebuilding
+- 🎯 Focused on becoming a better software engineer
 
-```text
-┌─ ABOUT ──────────────────────────────────────────────────────┐
+---
 
-  🎓  CSE / IT undergraduate
-  💻  Full-Stack Developer
-  🧠  Interested in AI + product engineering
-  🚀  Currently building an AI Interviewer SaaS
-  ⚡  I like turning ideas into working products
-  🛠️  I learn by building, breaking and rebuilding
+## 🛠️ Tech Stack
 
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,javascript,python,git,github,vscode&perline=9" alt="Tech Stack"/>
 
-## `$ ./current_status`
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🟢 Building
+## 🔥 What I'm Building
 
-**AI Interviewer SaaS**
+<div align="center">
 
-An AI-powered mock interview platform designed to simulate real interviews and provide actionable feedback.
+### 🎙️ AI Interviewer SaaS
 
-**Stack**
+</div>
+
+An AI-powered mock interview platform designed to simulate realistic interviews and provide actionable feedback.
+
+**Tech Stack:**
 
 `Next.js 15` `TypeScript` `Clerk` `Framer Motion`
 
-</td>
+Currently building it milestone-by-milestone and focusing on making the experience feel like an actual interview.
 
-<td width="50%" valign="top">
+---
 
-### 🧠 Learning
-
-```text
-Automata Theory
-      +
-Next.js App Router
-      +
-AI Product Engineering
-      +
-Better System Design
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `$ ls ./projects`
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -89,17 +64,14 @@ Better System Design
 
 ### 🩺 PulseID
 
-**Emergency Medical ID**
+**Emergency Medical ID System**
 
-A QR-based emergency medical identification system built during a hackathon.
+A QR-code-based emergency medical identification system built during a hackathon.
 
-Scan → retrieve critical medical information in seconds.
+Users can scan a QR code to quickly access critical medical information during emergencies.
 
-```text
-type      : Hackathon Project
-focus     : Emergency Tech
-interface : QR-based
-```
+**Focus:** Emergency Technology  
+**Core:** QR Codes
 
 </td>
 
@@ -109,13 +81,12 @@ interface : QR-based
 
 **Community Issue Management**
 
-A platform that lets people report, track and manage civic problems instead of letting them disappear into the complaint box.
+A platform for reporting, tracking and managing civic problems.
 
-```text
-type      : Web Application
-focus     : Community Tech
-purpose   : Civic Problem Tracking
-```
+Designed to make it easier for citizens to report issues and follow their progress.
+
+**Focus:** Civic Technology  
+**Type:** Web Application
 
 </td>
 
@@ -129,13 +100,14 @@ purpose   : Civic Problem Tracking
 
 **Smart Expense Tracker**
 
-A vanilla JavaScript expense tracker with OCR receipt scanning, canvas-based visualizations, anomaly detection and spending forecasts.
+A JavaScript-based expense tracker with intelligent features including:
 
-```text
-stack     : JavaScript
-ocr       : Tesseract.js
-graphics  : Canvas API
-```
+- 🧾 OCR receipt scanning
+- 📊 Canvas-based charts
+- 🚨 Spending anomaly detection
+- 📈 Spending forecasts
+
+**Tech:** JavaScript • Tesseract.js • Canvas API
 
 </td>
 
@@ -143,48 +115,22 @@ graphics  : Canvas API
 
 ### 🎙️ AI Interviewer
 
-**AI Interviewer SaaS**
+**AI Mock Interview Platform**
 
-A platform for realistic mock interviews with AI-powered feedback.
+A SaaS platform designed to help users practice interviews with AI-powered feedback.
 
-Built milestone by milestone — with each stage verified before moving forward.
+**Tech:** Next.js 15 • TypeScript • Clerk • Framer Motion
 
-```text
-framework : Next.js 15
-language  : TypeScript
-auth      : Clerk
-motion    : Framer Motion
-```
+**Status:** 🟢 Building
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+---
 
-## `$ cat tech_stack.json`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,javascript,python,git,github&perline=8" alt="Tech Stack"/>
-
-<br/>
-<br/>
-
-```text
-Frontend       →  Next.js • React • TypeScript • Tailwind
-Backend / App  →  Next.js • APIs • Clerk
-Languages      →  TypeScript • JavaScript • Python
-Tools          →  Git • GitHub • VS Code
-Currently      →  AI • SaaS • Full-Stack Development
-```
-
-</div>
-
-<br/>
-
-## `$ ./github_stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -202,88 +148,56 @@ Currently      →  AI • SaaS • Full-Stack Development
 
 </div>
 
-<br/>
+---
 
-## `$ git log --streak`
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <img
   src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true"
-  alt="Amit's GitHub Streak"
+  alt="GitHub Streak"
 />
 
 </div>
 
-<br/>
+---
 
-## `$ git activity`
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true&area=true"
   width="100%"
-  alt="Amit's GitHub Activity Graph"
+  alt="GitHub Activity Graph"
 />
 
 </div>
 
-<br/>
+---
 
-## `$ ps aux | grep current`
-
-```text
-PID       PROCESS                         STATUS
-────────────────────────────────────────────────────────────
-001       AI Interviewer SaaS             🟢 BUILDING
-002       Full-Stack Development           🟢 ACTIVE
-003       Learning new things              🟢 RUNNING
-004       Sleep Schedule                   🔴 NOT FOUND
-```
-
-<br/>
-
-## `$ tail -f /var/log/amit.log`
-
-```text
-[INFO] Idea → Build → Break → Debug → Ship
-[INFO] Currently obsessed with building better products.
-[INFO] One milestone at a time.
-[INFO] Still figuring out the sleep schedule...
-```
-
-<br/>
+## 💡 Currently Learning
 
 <div align="center">
 
-### `> shipping features, not just commits.`
+`Automata Theory` • `Next.js App Router` • `AI Engineering` • `System Design`
 
-<br/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/amit0236">
-<img
-  src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<img
-  src="https://img.shields.io/badge/STATUS-BUILDING-00FF9C?style=for-the-badge&labelColor=0D1117"
-  alt="Status"
-/>
-
 <br/>
 <br/>
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Thanks for stopping by.                  │
-│                                             │
-│   $ exit                                    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+### `Building → Learning → Debugging → Shipping 🚀`
 
 </div>
