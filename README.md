@@ -1,77 +1,34 @@
 <div align="center">
 
-# 👋 Hello! I'm Amit Kumar Maurya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+%F0%9F%91%8B;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
 
-### 💻 Full-Stack Developer • AI Enthusiast • CSE Undergraduate
-
-I build modern web applications, experiment with AI,  
-and turn ideas into products that actually work.
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" alt="Profile Views"/>
+> **WHO AM I**  
+> Amit — CSE undergraduate, building software that ships, not just compiles.
+>
+> **status**  
+> Building: AI Interviewer SaaS (Next.js 15 + TypeScript + Clerk)  
+> Learning: Automata theory by day, App Router patterns by night  
+> Debugging: my sleep schedule
 
-</div>
+<br/>
 
----
-
-## 🚀 About Me
-
-- 🎓 CSE Undergraduate
-- 💻 Full-Stack Developer
-- 🤖 Interested in **AI & Product Engineering**
-- 🚀 Currently building an **AI Interviewer SaaS**
-- 🧠 Currently learning **Automata Theory & Next.js App Router**
-- ⚡ I learn by building, breaking, debugging and rebuilding
-- 🎯 Focused on becoming a better software engineer
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,javascript,python,git,github,vscode&perline=9" alt="Tech Stack"/>
-
-</div>
-
----
-
-## 🔥 What I'm Building
-
-<div align="center">
-
-### 🎙️ AI Interviewer SaaS
-
-</div>
-
-An AI-powered mock interview platform designed to simulate realistic interviews and provide actionable feedback.
-
-**Tech Stack:**
-
-`Next.js 15` `TypeScript` `Clerk` `Framer Motion`
-
-Currently building it milestone-by-milestone and focusing on making the experience feel like an actual interview.
-
----
-
-## 📌 Featured Projects
+## 🚀 Things I've Built
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🩺 PulseID
 
-**Emergency Medical ID System**
+QR-code-based emergency medical ID system built at a hackathon.
 
-A QR-code-based emergency medical identification system built during a hackathon.
+Scan the code, get life-saving info in seconds — because emergencies don't wait for paperwork.
 
-Users can scan a QR code to quickly access critical medical information during emergencies.
-
-**Focus:** Emergency Technology  
-**Core:** QR Codes
+`Team Project` `Hackathon`
 
 </td>
 
@@ -79,125 +36,103 @@ Users can scan a QR code to quickly access critical medical information during e
 
 ### 🏙️ CivicConnect
 
-**Community Issue Management**
+A community issue-management platform so people can report and track civic problems instead of just complaining about them.
 
-A platform for reporting, tracking and managing civic problems.
-
-Designed to make it easier for citizens to report issues and follow their progress.
-
-**Focus:** Civic Technology  
-**Type:** Web Application
+`Web App` `Community Tech`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 💰 LEDGER
+### 💰 LEDGER — Smart Expense Tracker
 
-**Smart Expense Tracker**
+Vanilla JS expense tracker with OCR receipt scanning, canvas-drawn charts, anomaly detection, and spending forecasts.
 
-A JavaScript-based expense tracker with intelligent features including:
-
-- 🧾 OCR receipt scanning
-- 📊 Canvas-based charts
-- 🚨 Spending anomaly detection
-- 📈 Spending forecasts
-
-**Tech:** JavaScript • Tesseract.js • Canvas API
+`Tesseract.js` `Canvas API`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎙️ AI Interviewer
+### 🎙️ AI Interviewer SaaS
 
-**AI Mock Interview Platform**
+A platform that runs mock interviews and gives real feedback.
 
-A SaaS platform designed to help users practice interviews with AI-powered feedback.
+Built milestone by milestone, with every stage verified before the next begins.
 
-**Tech:** Next.js 15 • TypeScript • Clerk • Framer Motion
-
-**Status:** 🟢 Building
+`Next.js 15` `TypeScript` `Clerk` `Framer Motion`
 
 </td>
-
 </tr>
 </table>
 
----
+<br/>
+
+## 🛠️ Tech I Reach For
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats-two-indol-70.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400"
-  alt="Amit's GitHub Stats"
-/>
+<img height="180" src="https://github-readme-stats-two-indol-70.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Amit's GitHub Stats"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats-two-indol-70.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true&cache_seconds=86400"
-  alt="Amit's Top Languages"
-/>
+<img height="180" src="https://github-readme-stats-two-indol-70.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Amit's Top Languages"/>
 
 </div>
 
----
+<br/>
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true" alt="Amit's GitHub Streak"/>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true&area=true&custom_title=Amit%27s%20Contribution%20Graph" width="100%" alt="Amit's GitHub Contribution Graph"/>
 
 </div>
 
----
-
-## 💡 Currently Learning
+<br/>
 
 <div align="center">
 
-`Automata Theory` • `Next.js App Router` • `AI Engineering` • `System Design`
+### 💬 Currently
 
-</div>
+**Shipping features one milestone at a time, and actually checking them off.**
 
----
+<br/>
 
-## 🤝 Let's Connect
+<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
 
-<div align="center">
+<br/>
+<br/>
 
 <a href="https://github.com/amit0236">
 <img src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
-<br/>
-<br/>
-
-### `Building → Learning → Debugging → Shipping 🚀`
 
 </div>
