@@ -107,12 +107,11 @@ Built milestone by milestone, with every stage verified before the next begins.
 </div>
 
 <br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://YOUR-ACTIVITY-GRAPH-VERCEL-URL.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="Amit's GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/amit0236/amit0236/main/dist/contribution-graph.svg" width="100%" alt="Amit's GitHub Contribution Graph"/>
 
 </div>
 
