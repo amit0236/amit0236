@@ -90,9 +90,17 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true" alt="Amit's GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=amit0236&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400"
+  height="180"
+  alt="Amit's GitHub Stats"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true" alt="Amit's Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit0236&layout=compact&theme=synthwave&hide_border=true&cache_seconds=86400"
+  height="180"
+  alt="Amit's Top Languages"
+/>
 
 </div>
 
@@ -102,7 +110,10 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true" alt="Amit's GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=amit0236&theme=synthwave&hide_border=true"
+  alt="Amit's GitHub Streak"
+/>
 
 </div>
 
@@ -112,7 +123,11 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="Amit's GitHub Activity Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true"
+  width="100%"
+  alt="Amit's GitHub Activity Graph"
+/>
 
 </div>
 
@@ -126,13 +141,19 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C"
+  alt="Profile Views"
+/>
 
 <br/>
 <br/>
 
 <a href="https://github.com/amit0236">
-<img src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img
+  src="https://img.shields.io/badge/GitHub-amit0236-181717?style=for-the-badge&logo=github"
+  alt="GitHub"
+/>
 </a>
 
 </div>
