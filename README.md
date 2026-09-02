@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+%F0%9F%91%8B;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+Maurya;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
 
 </div>
 
@@ -125,7 +125,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <br/>
 
-/*<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>*/
+<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
 
 <br/>
 <br/>
