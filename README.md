@@ -112,7 +112,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true&area=true&custom_title=Amit%27s%20Contribution%20Graph" width="100%" alt="Amit's GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="Amit's GitHub Contribution Graph"/>
 
 </div>
 
