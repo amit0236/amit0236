@@ -112,7 +112,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="Amit's GitHub Contribution Graph"/>
+<img src="https://YOUR-ACTIVITY-GRAPH-VERCEL-URL.vercel.app/graph?username=amit0236&theme=react-dark&hide_border=true" width="100%" alt="Amit's GitHub Activity Graph"/>
 
 </div>
 
@@ -126,7 +126,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>
+/*<img src="https://komarev.com/ghpvc/?username=amit0236&style=for-the-badge&color=00FF9C" alt="Profile Views"/>*/
 
 <br/>
 <br/>
