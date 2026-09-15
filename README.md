@@ -59,6 +59,19 @@ Combines document intelligence, local AI, RAG, verification, calculations, and a
 </td>
 
 <td width="50%" valign="top">
+<td width="50%" valign="top">
+
+### 🛡️ EvidenceOS
+
+Autonomous evidence-purchasing and fact-verification platform powered by AI agents, 0/1 Knapsack optimization, and x402 micropayments.
+
+Discovers, evaluates, and purchases evidence while staying within a defined budget.
+
+`Agentic AI` `x402` `USDC` `Base Sepolia` `FastAPI`
+
+[**View Project →**](https://github.com/amit0236/EvidenceOS)
+
+</td>
 
 ### 🩺 PulseID
 
