@@ -1,18 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+Maurya;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Currently+shipping+an+AI+Interviewer+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amit+Maurya;B.Tech+CSE+%7C+Full-Stack+Developer;I+build+things+that+solve+real+problems;Building+SOVEREIGN+%E2%80%94+On-Premise+Agentic+AI" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-> **WHO AM I**  
-> Amit — CSE undergraduate, building software that ships, not just compiles.
+> **WHO AM I**
+> Amit — CSE undergraduate, building software that solves real problems and ships beyond the prototype.
 >
-> **status**  
-> Building: AI Interviewer SaaS (Next.js 15 + TypeScript + Clerk)  
-> Learning: Automata theory by day, App Router patterns by night  
+> **status**
+> Building: **SOVEREIGN — On-Premise Agentic AI Workbench**
+> Exploring: AI, RAG, full-stack development & intelligent systems
 > Debugging: my sleep schedule
+
+<br/>
+
+## 🛡️ Featured Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🛡️ SOVEREIGN — On-Premise Agentic AI Workbench
+
+An **air-gapped Agentic AI Workbench** designed for confidential industrial environments where sensitive documents cannot be sent to the cloud.
+
+SOVEREIGN brings AI directly to organizational data, combining **document intelligence, OCR, RAG, local LLM inference, agentic workflows, sandboxed calculations, verification, and auditability** into a single workspace.
+
+Built for environments such as **refineries, PSUs, government organizations, and defense-linked industries**.
+
+`Agentic AI` `RAG` `FastAPI` `Next.js` `Ollama` `Qwen` `OCR` `Air-Gapped`
+
+🔗 **[View SOVEREIGN →](https://github.com/amit0236/SOVEREIGN-AI-Workbench)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -22,23 +46,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 PulseID
+### 🛡️ SOVEREIGN
 
-QR-code-based emergency medical ID system built at a hackathon.
+On-premise Agentic AI Workbench for confidential industrial environments.
 
-Scan the code, get life-saving info in seconds — because emergencies don't wait for paperwork.
+Combines document intelligence, local AI, RAG, verification, calculations, and audit trails without relying on cloud AI.
 
-`Team Project` `Hackathon`
+`Agentic AI` `RAG` `Industrial AI`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏙️ CivicConnect
+### 🩺 PulseID
 
-A community issue-management platform so people can report and track civic problems instead of just complaining about them.
+QR-code-based emergency medical ID system built at a hackathon.
 
-`Web App` `Community Tech`
+Scan the code, get critical emergency information in seconds — because emergencies don't wait for paperwork.
+
+`Team Project` `Hackathon`
 
 </td>
 </tr>
@@ -46,23 +72,21 @@ A community issue-management platform so people can report and track civic probl
 <tr>
 <td width="50%" valign="top">
 
-### 💰 LEDGER — Smart Expense Tracker
+### 🏙️ CivicConnect
 
-Vanilla JS expense tracker with OCR receipt scanning, canvas-drawn charts, anomaly detection, and spending forecasts.
+A community issue-management platform that allows people to report and track civic problems instead of just complaining about them.
 
-`Tesseract.js` `Canvas API`
+`Web App` `Community Tech`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎙️ AI Interviewer SaaS
+### 💰 LEDGER — Smart Expense Tracker
 
-A platform that runs mock interviews and gives real feedback.
+A JavaScript expense tracker with OCR receipt scanning, interactive charts, anomaly detection, and spending insights.
 
-Built milestone by milestone, with every stage verified before the next begins.
-
-`Next.js 15` `TypeScript` `Clerk` `Framer Motion`
+`JavaScript` `Tesseract.js` `Canvas API`
 
 </td>
 </tr>
@@ -80,7 +104,20 @@ Built milestone by milestone, with every stage verified before the next begins.
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+<br/>
+
+## 🧠 Areas I'm Exploring
+
+<div align="center">
+
+`Artificial Intelligence`   `Agentic AI`   `RAG Systems`
+`Local LLMs`   `Full-Stack Development`   `Computer Science`
 
 </div>
 
@@ -107,6 +144,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 </div>
 
 <br/>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -121,7 +159,7 @@ Built milestone by milestone, with every stage verified before the next begins.
 
 ### 💬 Currently
 
-**Shipping features one milestone at a time, and actually checking them off.**
+**Building ambitious projects, solving real problems, and shipping one milestone at a time.**
 
 <br/>
 
