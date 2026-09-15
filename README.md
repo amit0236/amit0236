@@ -6,10 +6,10 @@
 
 <br/>
 
-> **WHO AM I**
+> **WHO AM I**\n
 > Amit — CSE undergraduate, building software that solves real problems and ships beyond the prototype.
 >
-> **status**
+> **status**\n
 > Building: **SOVEREIGN — On-Premise Agentic AI Workbench**
 > Exploring: AI, RAG, full-stack development & intelligent systems
 > Debugging: my sleep schedule
