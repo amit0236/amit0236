@@ -7,13 +7,13 @@
 <br/>
 
 > **WHO AM I**
-> 
+>
 > Amit — CSE undergraduate, building software that solves real problems and ships beyond the prototype.
 >
 > **Status**
-> 
-> Building: **SOVEREIGN — On-Premise Agentic AI Workbench**
-> Exploring: AI, RAG, full-stack development & intelligent systems
+>
+> Building: **SOVEREIGN — On-Premise Agentic AI Workbench**  
+> Exploring: **AI, RAG, full-stack development & intelligent systems**  
 > Debugging: my sleep schedule
 
 <br/>
@@ -46,22 +46,10 @@ Built for environments such as **refineries, PSUs, government organizations, and
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ SOVEREIGN
-
-On-premise Agentic AI Workbench for confidential industrial environments.
-
-Combines document intelligence, local AI, RAG, verification, calculations, and audit trails without relying on cloud AI.
-
-`Agentic AI` `RAG` `Industrial AI`
-
-</td>
 
 <td width="50%" valign="top">
-<td width="50%" valign="top">
 
-### 🛡️ EvidenceOS
+### ⚡ EvidenceOS
 
 Autonomous evidence-purchasing and fact-verification platform powered by AI agents, 0/1 Knapsack optimization, and x402 micropayments.
 
@@ -69,22 +57,26 @@ Discovers, evaluates, and purchases evidence while staying within a defined budg
 
 `Agentic AI` `x402` `USDC` `Base Sepolia` `FastAPI`
 
-[**View Project →**](https://github.com/amit0236/EvidenceOS)
+🔗 **[View EvidenceOS →](https://github.com/amit0236/EvidenceOS)**
 
 </td>
+
+<td width="50%" valign="top">
 
 ### 🩺 PulseID
 
 QR-code-based emergency medical ID system built at a hackathon.
 
-Scan the code, get critical emergency information in seconds — because emergencies don't wait for paperwork.
+Scan the code and access critical emergency information in seconds.
 
 `Team Project` `Hackathon`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏙️ CivicConnect
@@ -104,6 +96,7 @@ A JavaScript expense tracker with OCR receipt scanning, interactive charts, anom
 `JavaScript` `Tesseract.js` `Canvas API`
 
 </td>
+
 </tr>
 </table>
 
@@ -131,8 +124,8 @@ A JavaScript expense tracker with OCR receipt scanning, interactive charts, anom
 
 <div align="center">
 
-`Artificial Intelligence`   `Agentic AI`   `RAG Systems`
-`Local LLMs`   `Full-Stack Development`   `Computer Science`
+`Artificial Intelligence` &nbsp; `Agentic AI` &nbsp; `RAG Systems`  
+`Local LLMs` &nbsp; `Web3` &nbsp; `Full-Stack Development` &nbsp; `Computer Science`
 
 </div>
 
